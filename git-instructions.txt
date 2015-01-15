@@ -1,3 +1,12 @@
+
+http://stackoverflow.com/questions/17643381/how-to-upload-my-angularjs-static-site-to-github-pages
+
 Now you can commit to your entire repository in your default (master) branch and whenever you want to deploy the dist directory you can run:
 
+git subtree push --prefix converted-html origin gh-pages
+
+If you get an error, use:
+git push origin --delete gh-pages
+
+to delete the branch and after that, run again:
 git subtree push --prefix converted-html origin gh-pages
