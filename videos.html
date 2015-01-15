@@ -26,10 +26,10 @@
         <a class="navbar-brand" href="#">Scrivener Library</a>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li ><a href="index.html">Home</a></li>
                 <li ><a href="model.html">Model</a></li>
                 <li ><a href="blog.html">Blog</a></li>
-                <li ><a href="videos.html">Videos</a></li>
+                <li class="active"><a href="videos.html">Videos</a></li>
                 
             </ul>
         </div>
@@ -39,13 +39,18 @@
 
         <div class="container">
             
-	<div class="starter-template">
-		<h1>Test 2</h1>
-		<p>You are using the Mixture + Bootstrap (v3.1.0) boilerplate.</p>
-		<p><a class="btn btn-primary btn-large" href="http://twitter.github.com/bootstrap/">Read the Bootstrap documentation &raquo;</a></p>
-		<p><a class="btn btn-primary btn-large" href="http://docs.mixture.io">Read the Mixture documentation &raquo;</a></p>
-	</div>
+	<h1>Portfolio</h1>
+	<!-- Display a group for portfolio by category -->
+	
+			<div class="cat"><span class="category"><a href="videos/category/photography.html">photography</a> (4)</span><span class="category"><a href="videos/category/art.html">art</a> (3)</span><span class="category"><a href="videos/category/graffiti.html">graffiti</a> (1)</span><span class="category"><a href="videos/category/shed.html">shed</a> (1)</span><span class="category"><a href="videos/category/bench.html">bench</a> (1)</span></div>
+	
+	<!-- Display a list of portfolio items, but allow queries by route category (see mixture.json for routes) order desc -->
+	
+		<ul class="portfolio-items"><li><a href="videos/shed.html"><img src="public/img/portfolio/9.jpg" width="150" /></a></li><li><a href="videos/patch.html"><img src="public/img/portfolio/7.jpg" width="150" /></a></li><li><a href="videos/graffiti.html"><img src="public/img/portfolio/1.jpg" width="150" /></a></li><li><a href="videos/bench.html"><img src="public/img/portfolio/8.jpg" width="150" /></a></li></ul>
+	
 
+            
+                
             
         </div>
         <script src="//code.jquery.com/jquery.min.js"></script>
