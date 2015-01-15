@@ -3,7 +3,7 @@
     "relativePaths": false
   },
   "debug": false,
-  "domain": "",
+  "domain": "http://sjardim.github.io/scrivenerlibrary/",
   "lintScripts": false,
   "modelSource": null,
   "preprocessorLocations": [
