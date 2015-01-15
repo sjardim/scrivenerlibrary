@@ -19,6 +19,18 @@
         {% include "navigation" %}
         <div class="container">
             {% block content %}{% endblock %}
+            {% item order desc %}
+                {% if next or previous %}
+                    <ul class="paging">
+                        {% if next %}
+                            <li class="next"><a href="{{ next.url }}" class="newer">{{ next.title }}</a> &rarr;</li>
+                        {% endif %}
+                        {% if previous %}
+                            <li class="previous">&larr; <a href="{{ previous.url }}" class="older">{{ previous.title }}</a></li>
+                        {% endif %}
+                    </ul>
+                {% endif %}
+            {% enditem %}
         </div>
         <script src="//code.jquery.com/jquery.min.js"></script>
         {{ "bootstrap.js" | asset_url | script_tag }}

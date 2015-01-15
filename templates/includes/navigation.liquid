@@ -5,12 +5,16 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Project name</a>
+        <a class="navbar-brand" href="#">Scrivener Library</a>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li {% if mixture.url == "index" %}class="active"{% endif %}><a href="/">Home</a></li>
                 <li {% if mixture.url == "model" %}class="active"{% endif %}><a href="/model">Model</a></li>
+                <li {% if mixture.url == "blog" %}class="active"{% endif %}><a href="/blog">Blog</a></li>
+                <li {% if mixture.url == "videos" %}class="active"{% endif %}><a href="/videos">Videos</a></li>
+                
             </ul>
         </div>
     </div>
 </div>
+

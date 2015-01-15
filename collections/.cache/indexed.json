@@ -1,0 +1,553 @@
+{
+  "blog": {
+    "collection": {
+      "/blog/example-2": {
+        "title": "Example post 2",
+        "tags": [
+          "example",
+          "news",
+          "story"
+        ],
+        "published": true,
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/blog/example-2",
+        "body": "\n<h1><a href=\"/blog/example-2\">Example post 2</a></h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>\n\n<p>Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet.</p>\n\n<p>Donec ac magna ut turpis ullamcorper mattis at a mauris. In ultrices elit nec diam pretium sollicitudin congue leo pellentesque.</p>\n\n<p>Ut viverra magna nec elit facilisis suscipit. Vivamus et orci magna, vitae cursus libero. Nunc sit amet gravida nibh. Sed ut eros nisl. Sed massa ipsum, porttitor vel volutpat vel, vehicula quis nunc. Aenean et tincidunt quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin lacinia, lacus nec ultrices rutrum, justo orci mollis velit, nec ultricies mauris massa id nunc. Donec id dolor a lectus accumsan vehicula. Integer aliquam nisl non odio egestas sollicitudin. Fusce vel ante a purus sagittis porta ac in lorem.</p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/blog/example-3": {
+        "title": "Example post 3",
+        "tags": [
+          "example",
+          "news"
+        ],
+        "published": true,
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/blog/example-3",
+        "body": "\n<h1><a href=\"/blog/example-3\">Example post 3</a></h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>\n\n<p>Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet.</p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/blog/example-liquid-post": {
+        "layout": "alt",
+        "title": "Example Liquid Post",
+        "tags": [
+          "example",
+          "news"
+        ],
+        "published": true,
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/blog/example-liquid-post",
+        "body": "\n\n<h1><a href=\"/blog/example-liquid-post\">About Me</a></h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet. Donec ac magna ut turpis ullamcorper mattis at a mauris. In ultrices elit nec diam pretium sollicitudin congue leo pellentesque.</p>\n<p>Ut viverra magna nec elit facilisis suscipit. Vivamus et orci magna, vitae cursus libero. Nunc sit amet gravida nibh. Sed ut eros nisl. Sed massa ipsum, porttitor vel volutpat vel, vehicula quis nunc. Aenean et tincidunt quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin lacinia, lacus nec ultrices rutrum, justo orci mollis velit, nec ultricies mauris massa id nunc. Donec id dolor a lectus accumsan vehicula. Integer aliquam nisl non odio egestas sollicitudin. Fusce vel ante a purus sagittis porta ac in lorem.</p>",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/blog/example-old": {
+        "title": "Example Old",
+        "tags": [
+          "example",
+          "news"
+        ],
+        "published": true,
+        "date": "2013-04-20 00:00:00 UTC",
+        "slug": "/blog/example-old",
+        "body": "\n<h1><a href=\"/blog/example-old\">Example old</a></h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet. Donec ac magna ut turpis ullamcorper mattis at a mauris. In ultrices elit nec diam pretium sollicitudin congue leo pellentesque.</p>\n\n<p>Ut viverra magna nec elit facilisis suscipit. Vivamus et orci magna, vitae cursus libero. Nunc sit amet gravida nibh. Sed ut eros nisl. Sed massa ipsum, porttitor vel volutpat vel, vehicula quis nunc. Aenean et tincidunt quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin lacinia, lacus nec ultrices rutrum, justo orci mollis velit, nec ultricies mauris massa id nunc. Donec id dolor a lectus accumsan vehicula. Integer aliquam nisl non odio egestas sollicitudin. Fusce vel ante a purus sagittis porta ac in lorem.</p>\n",
+        "month": "04",
+        "year": "2013",
+        "ticks": 1366416000.0,
+        "mixture_month_year": "04/2013",
+        "mixture_date": "2013-04-20T00:00:00Z"
+      },
+      "/blog/example-post-haml": {
+        "title": "Example post HAML",
+        "tags": [
+          "example",
+          "news"
+        ],
+        "published": true,
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/blog/example-post-haml",
+        "body": "<h1>\n  <a href='/blog/example-post-haml'>Example post HAML</a>\n</h1>\n<p>\n  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet. Donec ac magna ut turpis ullamcorper mattis at a mauris. In ultrices elit nec diam pretium sollicitudin congue leo pellentesque.\n</p>\n<p>\n  Ut viverra magna nec elit facilisis suscipit. Vivamus et orci magna, vitae cursus libero. Nunc sit amet gravida nibh. Sed ut eros nisl. Sed massa ipsum, porttitor vel volutpat vel, vehicula quis nunc. Aenean et tincidunt quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin lacinia, lacus nec ultrices rutrum, justo orci mollis velit, nec ultricies mauris massa id nunc. Donec id dolor a lectus accumsan vehicula. Integer aliquam nisl non odio egestas sollicitudin. Fusce vel ante a purus sagittis porta ac in lorem.\n</p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/blog/example": {
+        "title": "Example post",
+        "tags": [
+          "example",
+          "news"
+        ],
+        "published": true,
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/blog/example",
+        "body": "\n<h1><a href=\"/blog/example\">Example post</a></h1>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra laoreet fermentum. Aliquam faucibus eleifend fermentum. Aliquam convallis nunc id diam suscipit at viverra tellus bibendum. Sed mollis magna ut arcu cursus semper. In sed orci justo, non pretium dolor. Pellentesque convallis risus vitae sapien faucibus ultrices. Phasellus placerat nisl at justo convallis sit amet pulvinar sapien facilisis. Nullam quis mollis eros. Aenean nec aliquet augue. Nam egestas pretium justo, vel dignissim lectus aliquam imperdiet. Donec ac magna ut turpis ullamcorper mattis at a mauris. In ultrices elit nec diam pretium sollicitudin congue leo pellentesque.</p>\n\n<p>Ut viverra magna nec elit facilisis suscipit. Vivamus et orci magna, vitae cursus libero. Nunc sit amet gravida nibh. Sed ut eros nisl. Sed massa ipsum, porttitor vel volutpat vel, vehicula quis nunc. Aenean et tincidunt quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin lacinia, lacus nec ultrices rutrum, justo orci mollis velit, nec ultricies mauris massa id nunc. Donec id dolor a lectus accumsan vehicula. Integer aliquam nisl non odio egestas sollicitudin. Fusce vel ante a purus sagittis porta ac in lorem.</p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      }
+    },
+    "index": {
+      "title": {
+        "example post 2": [
+          "/blog/example-2"
+        ],
+        "example post 3": [
+          "/blog/example-3"
+        ],
+        "example liquid post": [
+          "/blog/example-liquid-post"
+        ],
+        "example old": [
+          "/blog/example-old"
+        ],
+        "example post haml": [
+          "/blog/example-post-haml"
+        ],
+        "example post": [
+          "/blog/example"
+        ]
+      },
+      "transliterated-title": {
+        "example-post-2": [
+          "/blog/example-2"
+        ],
+        "example-post-3": [
+          "/blog/example-3"
+        ],
+        "example-liquid-post": [
+          "/blog/example-liquid-post"
+        ],
+        "example-old": [
+          "/blog/example-old"
+        ],
+        "example-post-haml": [
+          "/blog/example-post-haml"
+        ],
+        "example-post": [
+          "/blog/example"
+        ]
+      },
+      "tags": {
+        "example": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-old",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "news": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-old",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "story": [
+          "/blog/example-2"
+        ]
+      },
+      "transliterated-tags": {
+        "example": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-old",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "news": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-old",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "story": [
+          "/blog/example-2"
+        ]
+      },
+      "slug": {
+        "/blog/example-2": [
+          "/blog/example-2"
+        ],
+        "/blog/example-3": [
+          "/blog/example-3"
+        ],
+        "/blog/example-liquid-post": [
+          "/blog/example-liquid-post"
+        ],
+        "/blog/example-old": [
+          "/blog/example-old"
+        ],
+        "/blog/example-post-haml": [
+          "/blog/example-post-haml"
+        ],
+        "/blog/example": [
+          "/blog/example"
+        ]
+      },
+      "transliterated-slug": {
+        "/blog/example-2": [
+          "/blog/example-2"
+        ],
+        "/blog/example-3": [
+          "/blog/example-3"
+        ],
+        "/blog/example-liquid-post": [
+          "/blog/example-liquid-post"
+        ],
+        "/blog/example-old": [
+          "/blog/example-old"
+        ],
+        "/blog/example-post-haml": [
+          "/blog/example-post-haml"
+        ],
+        "/blog/example": [
+          "/blog/example"
+        ]
+      },
+      "month": {
+        "06": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "04": [
+          "/blog/example-old"
+        ]
+      },
+      "year": {
+        "2013": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-old",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ]
+      },
+      "ticks": {
+        "1370422928.0": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "1366416000.0": [
+          "/blog/example-old"
+        ]
+      },
+      "mixture_month_year": {
+        "06/2013": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "04/2013": [
+          "/blog/example-old"
+        ]
+      },
+      "mixture_date": {
+        "2013-06-05t06:02:08-03:00": [
+          "/blog/example-2",
+          "/blog/example-3",
+          "/blog/example-liquid-post",
+          "/blog/example-post-haml",
+          "/blog/example"
+        ],
+        "2013-04-20t00:00:00z": [
+          "/blog/example-old"
+        ]
+      },
+      "layout": {
+        "alt": [
+          "/blog/example-liquid-post"
+        ]
+      },
+      "transliterated-layout": {
+        "alt": [
+          "/blog/example-liquid-post"
+        ]
+      }
+    }
+  },
+  "videos": {
+    "collection": {
+      "/videos/bench": {
+        "title": "Bench",
+        "category": [
+          "bench",
+          "photography"
+        ],
+        "published": true,
+        "img": "8.jpg",
+        "special": [
+          "test"
+        ],
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/videos/bench",
+        "body": "\n<p><img src=\"/assets/img/videos/8.jpg\" alt=\"alt\" /></p>\n\n<p>This is portfolio item number <strong>8</strong></p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/videos/graffiti": {
+        "title": "Graffiti",
+        "category": [
+          "graffiti",
+          "art",
+          "photography"
+        ],
+        "published": true,
+        "img": "1.jpg",
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/videos/graffiti",
+        "body": "\n<p><img src=\"/assets/img/videos/1.jpg\" alt=\"alt\" /></p>\n\n<p>This is portfolio item number <strong>1</strong></p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/videos/patch": {
+        "title": "Patch",
+        "category": [
+          "art",
+          "photography"
+        ],
+        "published": true,
+        "img": "7.jpg",
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/videos/patch",
+        "body": "\n<p><img src=\"/assets/img/videos/7.jpg\" alt=\"alt\" /></p>\n\n<p>This is portfolio item number <strong>7</strong></p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      },
+      "/videos/shed": {
+        "title": "Shed",
+        "category": [
+          "shed",
+          "art",
+          "photography"
+        ],
+        "published": true,
+        "img": "9.jpg",
+        "date": "2013-06-05 09:02:08 UTC",
+        "slug": "/videos/shed",
+        "body": "\n<p><img src=\"/assets/img/portfolio/9.jpg\" alt=\"alt\" /></p>\n\n<p>This is portfolio item number <strong>9</strong></p>\n",
+        "month": "06",
+        "year": "2013",
+        "ticks": 1370422928.0,
+        "mixture_month_year": "06/2013",
+        "mixture_date": "2013-06-05T06:02:08-03:00"
+      }
+    },
+    "index": {
+      "title": {
+        "bench": [
+          "/videos/bench"
+        ],
+        "graffiti": [
+          "/videos/graffiti"
+        ],
+        "patch": [
+          "/videos/patch"
+        ],
+        "shed": [
+          "/videos/shed"
+        ]
+      },
+      "transliterated-title": {
+        "bench": [
+          "/videos/bench"
+        ],
+        "graffiti": [
+          "/videos/graffiti"
+        ],
+        "patch": [
+          "/videos/patch"
+        ],
+        "shed": [
+          "/videos/shed"
+        ]
+      },
+      "category": {
+        "bench": [
+          "/videos/bench"
+        ],
+        "photography": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ],
+        "graffiti": [
+          "/videos/graffiti"
+        ],
+        "art": [
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ],
+        "shed": [
+          "/videos/shed"
+        ]
+      },
+      "transliterated-category": {
+        "bench": [
+          "/videos/bench"
+        ],
+        "photography": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ],
+        "graffiti": [
+          "/videos/graffiti"
+        ],
+        "art": [
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ],
+        "shed": [
+          "/videos/shed"
+        ]
+      },
+      "img": {
+        "8.jpg": [
+          "/videos/bench"
+        ],
+        "1.jpg": [
+          "/videos/graffiti"
+        ],
+        "7.jpg": [
+          "/videos/patch"
+        ],
+        "9.jpg": [
+          "/videos/shed"
+        ]
+      },
+      "transliterated-img": {
+        "8jpg": [
+          "/videos/bench"
+        ],
+        "1jpg": [
+          "/videos/graffiti"
+        ],
+        "7jpg": [
+          "/videos/patch"
+        ],
+        "9jpg": [
+          "/videos/shed"
+        ]
+      },
+      "special": {
+        "test": [
+          "/videos/bench"
+        ]
+      },
+      "transliterated-special": {
+        "test": [
+          "/videos/bench"
+        ]
+      },
+      "slug": {
+        "/videos/bench": [
+          "/videos/bench"
+        ],
+        "/videos/graffiti": [
+          "/videos/graffiti"
+        ],
+        "/videos/patch": [
+          "/videos/patch"
+        ],
+        "/videos/shed": [
+          "/videos/shed"
+        ]
+      },
+      "transliterated-slug": {
+        "/videos/bench": [
+          "/videos/bench"
+        ],
+        "/videos/graffiti": [
+          "/videos/graffiti"
+        ],
+        "/videos/patch": [
+          "/videos/patch"
+        ],
+        "/videos/shed": [
+          "/videos/shed"
+        ]
+      },
+      "month": {
+        "06": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ]
+      },
+      "year": {
+        "2013": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ]
+      },
+      "ticks": {
+        "1370422928.0": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ]
+      },
+      "mixture_month_year": {
+        "06/2013": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ]
+      },
+      "mixture_date": {
+        "2013-06-05t06:02:08-03:00": [
+          "/videos/bench",
+          "/videos/graffiti",
+          "/videos/patch",
+          "/videos/shed"
+        ]
+      }
+    }
+  }
+}

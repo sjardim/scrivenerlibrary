@@ -22,5 +22,22 @@
   "templateDefaultPage": "index",
   "templateDirectory": "templates",
   "type": "mixture",
+  "routes": [
+    {
+      "redirect": null,
+      "route": "blog/page-:page",
+      "template": "blog"
+    },
+    {
+      "redirect": null,
+      "route": "blog/date/:month/:year",
+      "template": "blog"
+    },
+    {
+      "redirect": null,
+      "route": "videos/category/:category",
+      "template": "videos"
+    }
+  ],
   "useCompass": false
 }

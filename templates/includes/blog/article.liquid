@@ -1,0 +1,9 @@
+{% block content %}
+	<div class="hero-unit">
+		<h1>{{ model.title }}</h1>		
+		{{ article.body }}
+		<div class="details">
+			Categories: {{ article.tags | join:', ' }} &mdash; Posted: {{ article.date | date:'%d %b %Y'}}
+		</div>
+	</div>
+{% endblock %}
