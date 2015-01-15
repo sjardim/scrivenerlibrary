@@ -1,6 +1,6 @@
 {
   "convertHtml": {
-    "relativePaths": false
+    "relativePaths": true
   },
   "debug": false,
   "domain": "http://sjardim.github.io/scrivenerlibrary/",
